@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "DECO"      # Project title
+  title:        "jfct-GDS-from-VGA"      # Project title
   author:       "jfcolmenarest"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "DECOD"      # One line description of what your project does
